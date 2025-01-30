@@ -1,0 +1,1 @@
+cl /EHsc fuzzer.cpp ole32.lib /link /out:fuzz_harness.exe
